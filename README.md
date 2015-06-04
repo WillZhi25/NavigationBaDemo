@@ -1,8 +1,10 @@
-# NavigationBaDemo 机智的新手
-NavigationBaDemo
+## NavigationBaDemo 机智的新手
 
 
-#License
+##效果图
+![<Display Name>](https://github.com/zhiwupei/NavigationBaDemo/blob/master/image.gif?raw=true)
+
+##License
 The MIT License (MIT)
 
 Copyright (c) 2015 机智的新手
