@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.navigationController.delegate = self;
+    NSString *http = @"http";
+    http=[http stringByReplacingOccurrencesOfString:@"http" withString:@"https"];
+    NSLog(@"%@",http);
 }
 
 

@@ -1,6 +1,6 @@
 ## NavigationBaDemo 机智的新手
 实现从无导航栏push到有导航栏，或者从自定义导航栏Push到系统导航栏
-* blog简单讲解（http://zhiwupei.sinaapp.com/?p=97)
+* blog简单讲解（[链接](http://zhiwupei.sinaapp.com/?p=97))
 
 ##效果图
 ![<Display Name>](https://github.com/zhiwupei/NavigationBaDemo/blob/master/image.gif?raw=true)
